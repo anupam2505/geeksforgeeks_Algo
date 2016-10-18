@@ -2,6 +2,7 @@ __Author__ = 'Anupam Panwar'
 
 __Created_On__ = 10 / 17 / 2016
 
+## Minimum cost problem
 def minCostPath(Matrix):
     m = len(Matrix)
     n = len(Matrix[0])
