@@ -19,8 +19,8 @@ def LCS(X,Y,m,n):
     print Matrix[m][n]
 
 
-X = "AGGTAB"
-Y = "GXTXAYB"
+X = "64289622"
+Y = "429"
 LCS(X,Y,len(X),len(Y))
 
 
